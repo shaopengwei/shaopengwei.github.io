@@ -81,10 +81,16 @@ author:
 publication_category:
   # books:
   #   title: 'Books'
-  2025年:
-    title: '2025'    
-  2026年:
-    title: '2026'
+  Python:
+    title: 'Python'    
+  Docker:
+    title: 'Docker'
+  Hadoop:
+    title: 'Hadoop'
+  VSCode:
+    title: 'VSCode'
+  Zookeeper:
+    title: 'Zookeeper'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
